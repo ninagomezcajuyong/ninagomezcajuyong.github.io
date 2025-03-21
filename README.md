@@ -56,7 +56,7 @@ p {
 
   <img src="kalo.jpg" alt="/storage/emulated/0/Q4-ICT-Final Output"
   style="float:right center;width:150px;height:300px;"> 
-   <img src="./heartsun.jpg" alt="/storage/emulated/0/Q4-ICT-Final Output"
+   <img src="heartsun.jpg" alt="/storage/emulated/0/Q4-ICT-Final Output"
   style="float:left center;width:150px;height:300px;">
 
   
